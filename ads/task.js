@@ -22,3 +22,4 @@ class Rotator {
 }
 
 new Rotator(document.querySelector('.rotator'))
+new Rotator(document.querySelector('.rotator2'))
